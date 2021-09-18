@@ -1,16 +1,12 @@
-### Hi there 👋
+###Hi there,
 
-<!--
-**kiiinda/kiiinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nyawira👋
 
-Here are some ideas to get you started:
+# An aspiring fullstack web developer!
 
-- 🔭 I’m currently working on a Timetabling system
+- 🔭 I’m currently working on a [js freecodecamp course]
 - 🌱 I’m currently learning node js
 - 👯 I’m looking to collaborate on node js
-- 🤔 I’m looking for help with node js
-- 💬 Ask me about anything
-- 📫 How to reach me: oknyawira@gmail.com
-- 😄 Pronouns: She
-- ⚡ Fun fact: 
--->
+- 🤔 I’m looking for help with writing documentations
+- ⚡ Fun fact: I like listening to music
+- Connect with me: www.linkedin.com/in/nyawira-okinda
