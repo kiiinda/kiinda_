@@ -2,7 +2,7 @@
 
 I'm Nyawira👋
 
-# An aspiring fullstack web developer!
+# An aspiring web developer!
 
 - 🔭 I’m currently working on react
 - 🌱 I’m currently learning react
