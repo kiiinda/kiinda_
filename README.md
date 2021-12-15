@@ -2,7 +2,7 @@
 
 I'm Nyawira👋
 
-# An aspiring web developer!
+# Web developer!
 
 - 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate on react related projects
