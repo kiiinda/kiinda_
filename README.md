@@ -45,8 +45,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
-<hr>
+<hr><br>
 <div id="footer" >
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200"/>
+  <img src= "https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif)" width="200"/>
 </div>
 
