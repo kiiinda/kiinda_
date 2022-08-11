@@ -24,7 +24,7 @@
 
 
 ### :woman_technologist: About Me :
-- :telescope: I a software development intern
+- :telescope: I'm a software development intern
 
 - :seedling: Currently, I am working on improving my coding skills
 
