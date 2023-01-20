@@ -25,11 +25,11 @@
 
 
 ### :woman_technologist: About Me :
-- :telescope: I'm a software development intern
+- :telescope: I'm am interested in software development as well as data analytics
 
-- :seedling: Currently, I am working on improving my coding skills
+- :seedling: Currently, learning Python, Flask
 
-- :zap: In my free time, I like to read tech blogs
+- :zap: In my free time, I like to crotchet
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyawira-okinda/)
 
